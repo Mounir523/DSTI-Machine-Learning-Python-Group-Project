@@ -8,3 +8,4 @@ The input data necessary can be found in the Input Folder, it contains a csv fil
 See also our report in pdf which briefly explain our work.
 
 You can direcly run the notebook file, if a library cannot be imported please install it (pip install).
+For the notebook to run normally the Input folder with the CSV file need to be placed at the root of the notebook file.
